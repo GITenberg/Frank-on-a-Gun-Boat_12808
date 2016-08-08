@@ -1,0 +1,33 @@
+_repo: Frank-on-a-Gun-Boat_12808
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Castlemon, Harry
+    aliases:
+    - Castlemon, Henry
+    - Fosdick, Charles Austin
+    birthdate: 1842
+    deathdate: 1915
+    gutenberg_agent_id: '2274'
+    url: http://www.gutenberg.org/2009/agents/2274
+description: During the American Civil War, many teenage boys braved the battlefield
+  in service to their country. That's exactly what the spirited young protagonist
+  at the center of Frank on a Gun-Boat decides to do when his cousin Archie asks him
+  to join up. Though barely old enough to fend for themselves, the duo sets off to
+  join the naval forces that have gathered to fend off the rebels. Will they survive
+  the conflict and make it to manhood? Read Frank on a Gun-Boat to find out.
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2004-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12808'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Mississippi River -- History -- Civil War, 1861-1865 -- Juvenile fiction'
+- GITenberg
+title: Frank on a Gun-Boat
+url: http://www.gutenberg.org/ebooks/12808
