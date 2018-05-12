@@ -1,5 +1,8 @@
 _repo: Frank-on-a-Gun-Boat_12808
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Castlemon, Harry
@@ -16,6 +19,8 @@ description: During the American Civil War, many teenage boys braved the battlef
   to join up. Though barely old enough to fend for themselves, the duo sets off to
   join the naval forces that have gathered to fend off the rebels. Will they survive
   the conflict and make it to manhood? Read Frank on a Gun-Boat to find out.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12808#Frank-on-a-Gun-Boat
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2004-07-03'
 gutenberg_type: Text
